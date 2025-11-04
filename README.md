@@ -76,27 +76,29 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats  
 
 <div align="center">
 
-  <!-- Streak Stats -->
+  <!-- 🔥 Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=Aakashdoraisamy&theme=dark&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=Aakashdoraisamy&theme=dark&hide_border=false&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" 
     alt="GitHub Streak Stats" 
     height="180"
   />
 
-  <!-- Overall Stats -->
+  <!-- 📈 Overall Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=Aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" 
     alt="GitHub Stats" 
     height="180"
   />
 
-  <!-- Top Languages -->
+  <!-- 🧠 Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdoraisamy&layout=compact&theme=dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashdoraisamy&layout=compact&theme=dark&hide_border=false"
     alt="Top Languages"
     height="180"
   />
@@ -104,6 +106,7 @@
 </div>
 
 ---
+
 
 
 
