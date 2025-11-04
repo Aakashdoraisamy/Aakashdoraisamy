@@ -48,13 +48,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" title="MongoDB" alt="MongoDB"/>
 
 <!-- Data Engineering & ML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/spark-original-wordmark.svg" height="40" title="PySpark" alt="PySpark"/>
+<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=E35A16" height="40" title="PySpark" alt="PySpark"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" alt="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" alt="Matplotlib"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="Scikit-learn" alt="Scikit-learn"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="40" title="SQLite" alt="SQLite"/>
 
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" title="Django" alt="Django"/>
