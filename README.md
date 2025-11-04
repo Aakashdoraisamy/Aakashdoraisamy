@@ -82,21 +82,21 @@
 
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=aakashdoraisamy&theme=dark&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=Aakashdoraisamy&theme=dark&hide_border=false" 
     alt="GitHub Streak Stats" 
     height="180"
   />
 
   <!-- Overall Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=Aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" 
     alt="GitHub Stats" 
     height="180"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdoraisamy&layout=compact&theme=dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashdoraisamy&layout=compact&theme=dark&hide_border=false"
     alt="Top Languages"
     height="180"
   />
