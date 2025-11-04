@@ -90,6 +90,6 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashdoraisamy&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="Aakash's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashdoraisamy&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="" />
 </div>
 
