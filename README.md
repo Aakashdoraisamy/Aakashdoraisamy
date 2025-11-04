@@ -83,7 +83,7 @@
   <!-- Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=aakashdoraisamy&theme=dark&hide_border=false" 
-    alt="Streak Stats" 
+    alt="GitHub Streak Stats" 
     height="180"
   />
 
@@ -104,6 +104,7 @@
 </div>
 
 ---
+
 
 
 
