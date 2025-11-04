@@ -24,12 +24,18 @@
 💡 I’m passionate about <b>data-driven solutions</b> — transforming raw data into meaningful insights using Python and modern data tools.<br>  
 🔭 I focus on <b>Data Engineering, Machine Learning, and Backend Development</b>.<br>  
 ☁️ Exploring <b>AWS, PySpark, and Databricks</b> for real-world data workflows.<br>  
-📫 Connect with me on <div align="center">
+📫 <b>Connect with me:</b>  
+</p>
+
+<div align="center">
+  <a href="mailto:aakashdorai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail logo"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aakash-doraisamy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn logo"/>
   </a>
 </div>
-</p>
 
 ---
 
@@ -60,4 +66,3 @@
 </div>
 
 ---
-
