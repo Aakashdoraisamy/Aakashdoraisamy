@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="developer-gif"/>
+</div>
 
-<!--
-**Aakashdoraisamy/Aakashdoraisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/aakash-doraisamy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn logo"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h1 align="center">Hey there 👋, I'm Aakash D</h1>
+
+<h3 align="center">🔹 Data Science | Data Engineering | Backend Development</h3>
+
+---
+
+### 👨‍💻 About Me  
+
+<p align="left">
+💡 I’m passionate about <b>data-driven solutions</b> — transforming raw data into meaningful insights using Python and modern data tools.<br>  
+🔭 I focus on <b>Data Engineering, Machine Learning, and Backend Development</b>.<br>  
+☁️ Exploring <b>AWS, PySpark, and Databricks</b> for real-world data workflows.<br>  
+📫 Connect with me on <a href="https://www.linkedin.com/in/aakash-doraisamy/" target="_blank">LinkedIn</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL" title="Oracle SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="Django" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="Git" title="Git"/>
+</div>
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashdoraisamy&theme=dark&hide_border=false" height="200" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" height="200" alt="GitHub Stats"/>
+</div>
+
+---
+
+<p align="center">✨ “Data + Code = Impact.” ✨</p>
