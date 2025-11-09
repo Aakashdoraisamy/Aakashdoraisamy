@@ -78,14 +78,14 @@
 
 ---
 
-<div align="center">
 <!--
+<div align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Aakashdoraisamy&theme=dark&hide_border=false&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" 
     alt="GitHub Streak Stats" 
     height="180"
   />
--->
+  
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" 
     alt="GitHub Stats" 
@@ -99,7 +99,7 @@
   />
   
 </div>
-
+-->
 
 <!--
 ### 📈 Contribution Graph
