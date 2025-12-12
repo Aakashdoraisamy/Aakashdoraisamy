@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/aakash-doraisamy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn logo"/>
   </a>
+  <a href="mailto:aakashdorai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail logo"/>
+  </a>
 </div>
 
 ###
@@ -20,9 +23,10 @@
 
 ### 👨‍💻 About Me  
 
-💡 I’m passionate about **data-driven solutions** — transforming raw data into meaningful insights using Python and modern data tools.  
-🧠 I focus on **Data Engineering, Machine Learning, and Backend Development**.  
-☁️ Exploring **AWS, PySpark, and Databricks** for real-world data workflows.  
+💡 I’m passionate about **data-driven solutions** — transforming raw data into actionable insights using Python, modern data tools, and cloud platforms.  
+🧠 Focus areas: **Data Engineering, Machine Learning, Cloud Data Platforms, and Backend Development**.  
+☁️ Exploring **AWS, Snowflake, dbt, PySpark, and Databricks** to build **scalable, production-ready data pipelines**.  
+🚀 Always learning and experimenting with **ETL pipelines, API development, and automation**.  
 
 **📫 Connect with me:**  
 
@@ -56,6 +60,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="Scikit-learn" alt="Scikit-learn"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks" alt="Databricks"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" title="SQLite" alt="SQLite"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Snowflake-0099FF?style=for-the-badge&logo=snowflake&logoColor=white" height="28" title="Snowflake" alt="Snowflake"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/dbt-FF0000?style=for-the-badge&logo=dbt-labs&logoColor=white" height="28" title="dbt" alt="dbt"/> &nbsp;&nbsp;
 
 <!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" title="Django" alt="Django"/> &nbsp;&nbsp;
@@ -75,36 +81,3 @@
 </div>
 
 ---
-
----
-
-<!--
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Aakashdoraisamy&theme=dark&hide_border=false&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak Stats" 
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Aakashdoraisamy&show_icons=true&theme=dark&hide_border=false" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashdoraisamy&layout=compact&theme=dark&hide_border=false"
-    alt="Top Languages"
-    height="180"
-  />
-  
-</div>
--->
-
-<!--
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashdoraisamy&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true"/>
-</div>
--->
