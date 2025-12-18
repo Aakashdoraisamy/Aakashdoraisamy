@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" alt="Matplotlib"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" title="Scikit-learn" alt="Scikit-learn"/> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" title="Databricks" alt="Databricks"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" title="SQLite" alt="SQLite"/> &nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" title="SQLite" alt="SQLite"/> &nbsp;&nbsp; -->
 <img src="https://img.shields.io/badge/Snowflake-0099FF?style=for-the-badge&logo=snowflake&logoColor=white" height="28" title="Snowflake" alt="Snowflake"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/dbt-FF0000?style=for-the-badge&logo=dbt-labs&logoColor=white" height="28" title="dbt" alt="dbt"/> &nbsp;&nbsp;
 
