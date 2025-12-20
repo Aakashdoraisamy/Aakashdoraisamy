@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Aakash D</h1>
+<h1 align="center">Hey there 👋, I'm Aakash</h1>
 
 <h3 align="center">🔹 Data Science | Data Engineering | Backend Development</h3>
 
