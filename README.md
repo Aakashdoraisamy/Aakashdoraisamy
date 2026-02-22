@@ -26,7 +26,7 @@
 💡 I’m passionate about **data-driven solutions** — transforming raw data into actionable insights using Python, modern data tools, and cloud platforms.  
 🧠 Focus areas: **Data Engineering, Machine Learning, Cloud Data Platforms, and Backend Development**.  
 ☁️ Exploring **AWS, Snowflake, dbt, PySpark, and Databricks** to build **scalable, production-ready data pipelines**.  
-🚀 Continuously exploring  **Data Engineering **,  **ETL pipeline development **, and  **large-scale data processing **.
+🚀 Continuously exploring  **Data Engineering**,  **ETL pipeline development**, and  **large-scale data processing**.
 
 **📫 Connect with me:**  
 
