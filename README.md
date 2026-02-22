@@ -17,7 +17,7 @@
 
 <h1 align="center">Hey there 👋, I'm Aakash</h1>
 
-<h3 align="center">🔹 Data Science | Data Engineering | Backend Development</h3>
+<h3 align="center">🔹 Data Science | Data Engineering </h3>
 
 ---
 
@@ -26,7 +26,7 @@
 💡 I’m passionate about **data-driven solutions** — transforming raw data into actionable insights using Python, modern data tools, and cloud platforms.  
 🧠 Focus areas: **Data Engineering, Machine Learning, Cloud Data Platforms, and Backend Development**.  
 ☁️ Exploring **AWS, Snowflake, dbt, PySpark, and Databricks** to build **scalable, production-ready data pipelines**.  
-🚀 Always learning and experimenting with **ETL pipelines, API development, and automation**.  
+🚀 Continuously exploring  **Data Engineering **,  **ETL pipeline development **, and  **large-scale data processing **.
 
 **📫 Connect with me:**  
 
@@ -74,8 +74,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" title="Git" alt="Git"/> &nbsp;&nbsp;
 
 <!-- Web & Automation -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" title="HTML" alt="HTML"/> &nbsp;&nbsp;
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" title="HTML" alt="HTML"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" title="CSS" alt="CSS"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" title="Selenium" alt="Selenium"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" title="Selenium" alt="Selenium"/>  -->
 
 </div>
